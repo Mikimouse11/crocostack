@@ -1,0 +1,7 @@
+{
+  "name": "crocostack",
+  "displayName": "Crocostack",
+  "version": "0.0.0",
+  "description": "Skills for handling products and categories on ecommerce websites.",
+  "skills": "./skills/"
+}
