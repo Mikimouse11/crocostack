@@ -5,7 +5,7 @@ description: Rules for choosing storefront filters and cleaning the attribute da
 
 # Filters
 
-- Filters show attribute data. A bad filter almost always means bad data, so fix the data before the filter settings.
+- Filters show attribute data. A bad filter almost always means bad data, so fix the data with `product-attributes` before you change the filter settings.
 - Choose filters per category: the 3 to 6 attributes shoppers decide on in that category. Price and availability apply almost everywhere.
 - Drop a filter when fewer than about 70% of the products in the category have a value for it.
 - Drop a filter when one value covers more than 90% of the products. It filters nothing.

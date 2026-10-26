@@ -7,14 +7,18 @@ description: Entry point for improving an ecommerce catalog. Use when asked to a
 
 Fix structure before content. Work in this order and load the matching skill for each step:
 
-1. `product-variants`
-2. `categories`
-3. `product-titles`
-4. `filters`
-5. `product-descriptions`
-6. `product-images`
+1. `product-identity`
+2. `product-variants`
+3. `categories`
+4. `product-attributes`
+5. `product-titles`
+6. `filters`
+7. `product-descriptions`
+8. `product-images`
+9. `seo`
+10. `product-feeds`
 
-A rewritten description is wasted on a product that should have been merged into another as a variant.
+A rewritten description is wasted on a product that should have been merged into another as a variant. SEO and feeds come last because every earlier step changes what they publish.
 
 ## Rules
 
