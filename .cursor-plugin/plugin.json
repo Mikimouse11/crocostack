@@ -3,5 +3,20 @@
   "displayName": "Crocostack",
   "version": "0.0.0",
   "description": "Skills for handling products and categories on ecommerce websites.",
+  "author": {
+    "name": "Risto Rehemägi",
+    "email": "risto@contentgecko.io"
+  },
+  "homepage": "https://github.com/Mikimouse11/crocostack",
+  "repository": "https://github.com/Mikimouse11/crocostack",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "catalog",
+    "products",
+    "categories",
+    "seo",
+    "skills"
+  ],
   "skills": "./skills/"
 }
